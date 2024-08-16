@@ -1,4 +1,4 @@
-<img width="600" alt="kan_plot" src="https://github.com/KindXiaoming/pykan/assets/23551623/a2d2d225-b4d2-4c1e-823e-bc45c7ea96f9">
+<img width="969" alt="GKAN_architectures" src="https://github.com/user-attachments/assets/03649a50-4a2e-4c32-943e-c33db7ade918">
 
 # Graph Kolmogorov-Arnold Networks (GKANs)
 
